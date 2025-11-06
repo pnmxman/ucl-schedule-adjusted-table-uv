@@ -1,0 +1,54 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Schedule-adjusted table (with end-of-phase projections) — UCL 2025-26</title>
+<style>
+body{font-family:Arial, Segoe UI, Helvetica, sans-serif; margin:20px}
+table{border-collapse:collapse; width:100%}
+th,td{border:1px solid #ccc; padding:6px 8px; text-align:right}
+th{cursor:pointer; background:#f7f7f7; text-align:center}
+td:first-child, th:first-child{text-align:left}
+tr:nth-child(even){background:#fafafa}
+.asc::after{content:" ▲"} .desc::after{content:" ▼"}
+legend, .legend h2{margin-top:24px}
+nav h2{margin-top:24px}
+footer{margin-top:24px; font-size:0.9em; color:#555}
+/* red emphasis for F_raw cells (applied by JS) */
+td.emph{color:#b00020; font-weight:600}
+</style>
+<script>
+function sortTable(n){
+ var t=document.getElementById('tbl'); var rows=Array.from(t.tBodies[0].rows);
+ var ths=t.tHead.rows[0].cells; var dir=t.getAttribute('data-dir')||'asc';
+ var last=parseInt(t.getAttribute('data-col')||'-1');
+ dir=(last===n && dir==='asc')?'desc':'asc';
+ for(var i=0;i<ths.length;i++){ths[i].classList.remove('asc');ths[i].classList.remove('desc');}
+ ths[n].classList.add(dir);
+ rows.sort(function(a,b){
+   var A=a.cells[n].innerText.trim(); var B=b.cells[n].innerText.trim();
+   var x=parseFloat(A.replace(',','.')); var y=parseFloat(B.replace(',','.'));
+   var na=isNaN(x), nb=isNaN(y);
+   return (na||nb? (A>B?1:-1) : (x>y?1:(x<y?-1:0))) * (dir==='asc'?1:-1);
+ });
+ rows.forEach(r=>t.tBodies[0].appendChild(r));
+ t.setAttribute('data-col',n); t.setAttribute('data-dir',dir);
+}
+function highlightColumnByIndex(idx){
+  if(idx==null) return;
+  var t=document.getElementById('tbl'); var rows=t.tBodies[0].rows;
+  for(var i=0;i<rows.length;i++){ if(rows[i].cells[idx]) rows[i].cells[idx].classList.add('emph'); }
+}
+document.addEventListener('DOMContentLoaded', function(){
+  highlightColumnByIndex(4);
+});
+</script></head><body>
+<h1>Schedule-adjusted table (with end-of-phase projections) — UCL 2025-26</h1>
+<table id="tbl"><thead><tr><th onclick="sortTable(0)">team</th><th onclick="sortTable(1)">actual_pts</th><th onclick="sortTable(2)">expected_pts_so_far</th><th onclick="sortTable(3)">over_under</th><th onclick="sortTable(4)">F_raw</th><th onclick="sortTable(5)">expected_pts_remaining_baseline</th><th onclick="sortTable(6)">Projection_baseline</th><th onclick="sortTable(7)">Projection_F</th><th onclick="sortTable(8)">Projection_F_winsor_shrink</th></tr></thead><tbody><tr><td>Paris Saint-Germain</td><td>9</td><td>2.778</td><td>6.222</td><td>3.24</td><td>8.722</td><td>17.722</td><td>24.0</td><td>19.358</td></tr><tr><td>Bayern Munich</td><td>9</td><td>4.444</td><td>4.556</td><td>2.025</td><td>7.056</td><td>16.056</td><td>21.019</td><td>17.378</td></tr><tr><td>Arsenal</td><td>9</td><td>4.722</td><td>4.278</td><td>1.906</td><td>6.778</td><td>15.778</td><td>20.665</td><td>17.049</td></tr><tr><td>Real Madrid</td><td>9</td><td>4.722</td><td>4.278</td><td>1.906</td><td>6.778</td><td>15.778</td><td>20.665</td><td>17.049</td></tr><tr><td>Inter Milan</td><td>9</td><td>4.917</td><td>4.083</td><td>1.831</td><td>6.583</td><td>15.583</td><td>20.034</td><td>16.818</td></tr><tr><td>Chelsea</td><td>6</td><td>3.722</td><td>2.278</td><td>1.612</td><td>7.778</td><td>13.778</td><td>18.0</td><td>15.236</td></tr><tr><td>Liverpool</td><td>6</td><td>3.778</td><td>2.222</td><td>1.588</td><td>7.722</td><td>13.722</td><td>17.779</td><td>15.17</td></tr><tr><td>Manchester City</td><td>7</td><td>4.444</td><td>2.556</td><td>1.575</td><td>7.056</td><td>14.056</td><td>17.656</td><td>15.378</td></tr><tr><td>Borussia Dortmund</td><td>7</td><td>4.75</td><td>2.25</td><td>1.474</td><td>6.75</td><td>13.75</td><td>16.947</td><td>14.949</td></tr><tr><td>Newcastle United</td><td>6</td><td>4.444</td><td>1.556</td><td>1.35</td><td>7.056</td><td>13.056</td><td>15.525</td><td>13.982</td></tr><tr><td>Galatasaray</td><td>6</td><td>4.444</td><td>1.556</td><td>1.35</td><td>7.056</td><td>13.056</td><td>15.525</td><td>13.982</td></tr><tr><td>Qarabag</td><td>6</td><td>4.75</td><td>1.25</td><td>1.263</td><td>6.75</td><td>12.75</td><td>14.526</td><td>13.416</td></tr><tr><td>Tottenham Hotspur</td><td>5</td><td>4.25</td><td>0.75</td><td>1.176</td><td>7.25</td><td>12.25</td><td>13.529</td><td>12.73</td></tr><tr><td>Barcelona</td><td>6</td><td>5.111</td><td>0.889</td><td>1.174</td><td>6.389</td><td>12.389</td><td>13.5</td><td>12.806</td></tr><tr><td>Sporting CP</td><td>6</td><td>5.5</td><td>0.5</td><td>1.091</td><td>6.0</td><td>12.0</td><td>12.545</td><td>12.205</td></tr><tr><td>Atlético Madrid</td><td>3</td><td>2.778</td><td>0.222</td><td>1.08</td><td>8.722</td><td>11.722</td><td>12.42</td><td>11.984</td></tr><tr><td>Atalanta</td><td>4</td><td>3.722</td><td>0.278</td><td>1.075</td><td>7.778</td><td>11.778</td><td>12.358</td><td>11.995</td></tr><tr><td>Club Brugge</td><td>3</td><td>3.75</td><td>-0.75</td><td>0.8</td><td>7.75</td><td>10.75</td><td>9.2</td><td>10.169</td></tr><tr><td>PSV Eindhoven</td><td>4</td><td>5.028</td><td>-1.028</td><td>0.796</td><td>6.472</td><td>10.472</td><td>9.149</td><td>9.976</td></tr><tr><td>Marseille</td><td>3</td><td>3.917</td><td>-0.917</td><td>0.766</td><td>7.583</td><td>10.583</td><td>8.809</td><td>9.918</td></tr><tr><td>Napoli</td><td>3</td><td>3.917</td><td>-0.917</td><td>0.766</td><td>7.583</td><td>10.583</td><td>8.809</td><td>9.918</td></tr><tr><td>Athletic Bilbao</td><td>3</td><td>4.028</td><td>-1.028</td><td>0.745</td><td>7.472</td><td>10.472</td><td>8.566</td><td>9.757</td></tr><tr><td>Eintracht Frankfurt</td><td>3</td><td>4.75</td><td>-1.75</td><td>0.632</td><td>6.75</td><td>9.75</td><td>7.263</td><td>8.906</td></tr><tr><td>Juventus</td><td>2</td><td>3.167</td><td>-1.167</td><td>0.632</td><td>8.333</td><td>10.333</td><td>7.263</td><td>9.292</td></tr><tr><td>Slavia Prague</td><td>2</td><td>3.444</td><td>-1.444</td><td>0.581</td><td>8.056</td><td>10.056</td><td>6.677</td><td>9.049</td></tr><tr><td>Union Saint-Gilloise</td><td>3</td><td>5.222</td><td>-2.222</td><td>0.574</td><td>6.278</td><td>9.278</td><td>6.606</td><td>8.493</td></tr><tr><td>Monaco</td><td>2</td><td>4.444</td><td>-2.444</td><td>0.45</td><td>7.056</td><td>9.056</td><td>5.175</td><td>8.174</td></tr><tr><td>Pafos</td><td>2</td><td>4.639</td><td>-2.639</td><td>0.431</td><td>6.861</td><td>8.861</td><td>4.958</td><td>8.003</td></tr><tr><td>Bodø/Glimt</td><td>2</td><td>4.917</td><td>-2.917</td><td>0.407</td><td>6.583</td><td>8.583</td><td>4.678</td><td>7.76</td></tr><tr><td>Bayer Leverkusen</td><td>2</td><td>5.111</td><td>-3.111</td><td>0.391</td><td>6.389</td><td>8.389</td><td>4.5</td><td>7.59</td></tr><tr><td>Olympiacos</td><td>1</td><td>3.75</td><td>-2.75</td><td>0.267</td><td>7.75</td><td>8.75</td><td>3.067</td><td>7.781</td></tr><tr><td>Villarreal</td><td>1</td><td>4.25</td><td>-3.25</td><td>0.235</td><td>7.25</td><td>8.25</td><td>2.706</td><td>7.344</td></tr><tr><td>Copenhagen</td><td>1</td><td>4.444</td><td>-3.444</td><td>0.225</td><td>7.056</td><td>8.056</td><td>2.588</td><td>7.174</td></tr><tr><td>Kairat</td><td>1</td><td>5.222</td><td>-4.222</td><td>0.191</td><td>6.278</td><td>7.278</td><td>2.202</td><td>6.493</td></tr><tr><td>Ajax</td><td>0</td><td>3.639</td><td>-3.639</td><td>0.0</td><td>7.861</td><td>7.861</td><td>0.0</td><td>6.878</td></tr><tr><td>Benfica</td><td>0</td><td>4.417</td><td>-4.417</td><td>0.0</td><td>7.083</td><td>7.083</td><td>0.0</td><td>6.198</td></tr></tbody></table>
+<section class='legend'><h2>Legend</h2><ul><li>you can re-sort the table by clicking in the columns headlines</li><li>[expected_pts_so_far] — reflects strength of opponents so far: low value &gt; strong opponents, high value &gt; weak opponents</li><li>[over_under] — actual_pts minus expected_pts_so_far (how many more/less points has the team made in comparison to an average team).</li><li>[F_raw] — actual_pts in relation to expected_pts_so_far (table actually is sorted by this column).</li><li>[expected_pts_remaining_baseline] — reflects strength of opponents yet to be played.</li><li>[Projection_baseline] — actual_pts + expected_pts_remaining_baseline (future expected points are not adjusted to success so far).</li><li>[Projection_F] — future points projection adjusted to success so far (remaining buckets multiplied by F_raw, per game capped at 3).</li><li>[Projection_F_winsor_shrink] — future points projection adjusted but with regress simulation (F_raw winsorized to [0.67, 1.50] and shrunk toward 1 by season progress; per-game cap 3.</li></ul></section>
+<nav><h2>Pages</h2><ul>
+<li style='font-weight:bold;'><a href='projections_ucl_2025-26.html'>Projections UCL 2025-26</a> <strong>(main adjusted table)</strong></li>
+<li><a href='baselines_ucl_2024-25.html'>Baselines UCL 2024-25</a></li>
+<li><a href='buckets_ucl_2025-26.html'>Buckets UCL 2025-26</a></li>
+<li><a href='teamgames_ucl_2024-25.html'>Teamgames UCL 2024-25</a></li>
+<li><a href='teamgames_ucl_2025-26.html'>Teamgames UCL 2025-26</a></li>
+</ul></nav>
+<footer>Generated 2025-11-05 14:27 UTC</footer>
+</body></html>
