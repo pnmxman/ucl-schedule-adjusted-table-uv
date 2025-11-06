@@ -1,0 +1,109 @@
+season,team,venue,opponent,opponent_pot,points,matchday
+2025-26,Athletic Bilbao,home,Arsenal,2,0,1
+2025-26,Arsenal,away,Athletic Bilbao,4,3,1
+2025-26,PSV Eindhoven,home,Union Saint-Gilloise,4,0,1
+2025-26,Union Saint-Gilloise,away,PSV Eindhoven,3,3,1
+2025-26,Juventus,home,Borussia Dortmund,1,1,1
+2025-26,Borussia Dortmund,away,Juventus,2,1,1
+2025-26,Real Madrid,home,Marseille,3,3,1
+2025-26,Marseille,away,Real Madrid,1,0,1
+2025-26,Benfica,home,Qarabag,4,0,1
+2025-26,Qarabag,away,Benfica,2,3,1
+2025-26,Tottenham Hotspur,home,Villarreal,2,3,1
+2025-26,Villarreal,away,Tottenham Hotspur,3,0,1
+2025-26,Olympiacos,home,Pafos,4,1,1
+2025-26,Pafos,away,Olympiacos,3,1,1
+2025-26,Slavia Prague,home,Bodø/Glimt,3,1,1
+2025-26,Bodø/Glimt,away,Slavia Prague,3,1,1
+2025-26,Ajax,home,Inter Milan,1,0,1
+2025-26,Inter Milan,away,Ajax,3,3,1
+2025-26,Bayern Munich,home,Chelsea,1,3,1
+2025-26,Chelsea,away,Bayern Munich,1,0,1
+2025-26,Liverpool,home,Atlético Madrid,2,3,1
+2025-26,Atlético Madrid,away,Liverpool,1,0,1
+2025-26,Paris Saint-Germain,home,Atalanta,2,3,1
+2025-26,Atalanta,away,Paris Saint-Germain,1,0,1
+2025-26,Club Brugge,home,Monaco,4,3,1
+2025-26,Monaco,away,Club Brugge,2,0,1
+2025-26,Copenhagen,home,Bayer Leverkusen,2,1,1
+2025-26,Bayer Leverkusen,away,Copenhagen,4,1,1
+2025-26,Eintracht Frankfurt,home,Galatasaray,4,3,1
+2025-26,Galatasaray,away,Eintracht Frankfurt,2,0,1
+2025-26,Manchester City,home,Napoli,3,3,1
+2025-26,Napoli,away,Manchester City,1,0,1
+2025-26,Newcastle United,home,Barcelona,1,0,1
+2025-26,Barcelona,away,Newcastle United,4,3,1
+2025-26,Sporting CP,home,Kairat,4,3,1
+2025-26,Kairat,away,Sporting CP,3,0,1
+2025-26,Atalanta,home,Club Brugge,2,3,2
+2025-26,Club Brugge,away,Atalanta,2,0,2
+2025-26,Kairat,home,Real Madrid,1,0,2
+2025-26,Real Madrid,away,Kairat,4,3,2
+2025-26,Atlético Madrid,home,Eintracht Frankfurt,2,3,2
+2025-26,Eintracht Frankfurt,away,Atlético Madrid,2,0,2
+2025-26,Chelsea,home,Benfica,2,3,2
+2025-26,Benfica,away,Chelsea,1,0,2
+2025-26,Inter Milan,home,Slavia Prague,3,3,2
+2025-26,Slavia Prague,away,Inter Milan,1,0,2
+2025-26,Bodø/Glimt,home,Tottenham Hotspur,3,1,2
+2025-26,Tottenham Hotspur,away,Bodø/Glimt,3,1,2
+2025-26,Galatasaray,home,Liverpool,1,3,2
+2025-26,Liverpool,away,Galatasaray,4,0,2
+2025-26,Marseille,home,Ajax,3,3,2
+2025-26,Ajax,away,Marseille,3,0,2
+2025-26,Pafos,home,Bayern Munich,1,0,2
+2025-26,Bayern Munich,away,Pafos,4,3,2
+2025-26,Qarabag,home,Copenhagen,4,3,2
+2025-26,Copenhagen,away,Qarabag,4,0,2
+2025-26,Union Saint-Gilloise,home,Newcastle United,4,0,2
+2025-26,Newcastle United,away,Union Saint-Gilloise,4,3,2
+2025-26,Arsenal,home,Olympiacos,3,3,2
+2025-26,Olympiacos,away,Arsenal,2,0,2
+2025-26,Monaco,home,Manchester City,1,1,2
+2025-26,Manchester City,away,Monaco,4,1,2
+2025-26,Bayer Leverkusen,home,PSV Eindhoven,3,1,2
+2025-26,PSV Eindhoven,away,Bayer Leverkusen,2,1,2
+2025-26,Borussia Dortmund,home,Athletic Bilbao,4,3,2
+2025-26,Athletic Bilbao,away,Borussia Dortmund,1,0,2
+2025-26,Barcelona,home,Paris Saint-Germain,1,0,2
+2025-26,Paris Saint-Germain,away,Barcelona,1,3,2
+2025-26,Napoli,home,Sporting CP,3,3,2
+2025-26,Sporting CP,away,Napoli,3,0,2
+2025-26,Villarreal,home,Juventus,2,1,2
+2025-26,Juventus,away,Villarreal,2,1,2
+2025-26,Barcelona,home,Olympiacos,3,3,3
+2025-26,Olympiacos,away,Barcelona,1,0,3
+2025-26,Kairat,home,Pafos,4,1,3
+2025-26,Pafos,away,Kairat,4,1,3
+2025-26,Arsenal,home,Atlético Madrid,2,3,3
+2025-26,Atlético Madrid,away,Arsenal,2,0,3
+2025-26,Bayer Leverkusen,home,Paris Saint-Germain,1,0,3
+2025-26,Paris Saint-Germain,away,Bayer Leverkusen,2,3,3
+2025-26,Copenhagen,home,Borussia Dortmund,1,0,3
+2025-26,Borussia Dortmund,away,Copenhagen,4,3,3
+2025-26,Newcastle United,home,Benfica,2,3,3
+2025-26,Benfica,away,Newcastle United,4,0,3
+2025-26,PSV Eindhoven,home,Napoli,3,3,3
+2025-26,Napoli,away,PSV Eindhoven,3,0,3
+2025-26,Union Saint-Gilloise,home,Inter Milan,1,0,3
+2025-26,Inter Milan,away,Union Saint-Gilloise,4,3,3
+2025-26,Villarreal,home,Manchester City,1,0,3
+2025-26,Manchester City,away,Villarreal,2,3,3
+2025-26,Athletic Bilbao,home,Qarabag,4,3,3
+2025-26,Qarabag,away,Athletic Bilbao,4,0,3
+2025-26,Galatasaray,home,Bodø/Glimt,3,3,3
+2025-26,Bodø/Glimt,away,Galatasaray,4,0,3
+2025-26,Monaco,home,Tottenham Hotspur,3,1,3
+2025-26,Tottenham Hotspur,away,Monaco,4,1,3
+2025-26,Atalanta,home,Slavia Prague,3,1,3
+2025-26,Slavia Prague,away,Atalanta,2,1,3
+2025-26,Chelsea,home,Ajax,3,3,3
+2025-26,Ajax,away,Chelsea,1,0,3
+2025-26,Eintracht Frankfurt,home,Liverpool,1,0,3
+2025-26,Liverpool,away,Eintracht Frankfurt,2,3,3
+2025-26,Bayern Munich,home,Club Brugge,2,3,3
+2025-26,Club Brugge,away,Bayern Munich,1,0,3
+2025-26,Real Madrid,home,Juventus,2,3,3
+2025-26,Juventus,away,Real Madrid,1,0,3
+2025-26,Sporting CP,home,Marseille,3,3,3
+2025-26,Marseille,away,Sporting CP,3,0,3

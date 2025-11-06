@@ -1,0 +1,40 @@
+competition,season,team,pot,uefa_coefficient,source_url
+ucl,2025-26,Teams ranked 1 to 8 advance to the round of 16 as a seeded team,,,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Teams ranked 9 to 16 advance to the knockout phase play-offs as a seeded team,,,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Teams ranked 17 to 24 advance to the knockout phase play-offs as an unseeded team,,,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Paris Saint-Germain,1.0,118.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Real Madrid,1.0,143.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Manchester City,1.0,137.75,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Bayern Munich,1.0,135.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Liverpool,1.0,125.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Inter Milan,1.0,116.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Chelsea,1.0,109.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Borussia Dortmund,1.0,106.75,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Barcelona,1.0,103.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Arsenal,2.0,98.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Bayer Leverkusen,2.0,95.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Atlético Madrid,2.0,93.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Benfica,2.0,87.75,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Atalanta,2.0,82.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Villarreal,2.0,82.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Juventus,2.0,74.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Eintracht Frankfurt,2.0,74.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Club Brugge,2.0,71.75,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Tottenham Hotspur,3.0,70.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,PSV Eindhoven,3.0,69.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Ajax,3.0,67.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Napoli,3.0,61.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Sporting CP,3.0,59.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Olympiacos,3.0,56.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Slavia Prague,3.0,51.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Bodø/Glimt,3.0,49.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Marseille,3.0,48.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Copenhagen,4.0,44.875,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Monaco,4.0,41.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Galatasaray,4.0,38.25,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Union Saint-Gilloise,4.0,36.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Qarabağ,4.0,32.0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Athletic Bilbao,4.0,26.75,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Newcastle United,4.0,23.039,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Pafos,4.0,11.125,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,Kairat,4.0,5.5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase

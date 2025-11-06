@@ -1,0 +1,14 @@
+[project]
+name = "ucl-schedule-adjusted-table-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "ipykernel>=7.1.0",
+    "lxml>=4.9",
+    "pandas>=2.0",
+    "requests>=2.31",
+    "utils>=1.0.2",
+]

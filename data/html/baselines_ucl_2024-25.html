@@ -1,0 +1,54 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Baselines — UCL 2024-25</title>
+<style>
+body{font-family:Arial, Segoe UI, Helvetica, sans-serif; margin:20px}
+table{border-collapse:collapse; width:100%}
+th,td{border:1px solid #ccc; padding:6px 8px; text-align:right}
+th{cursor:pointer; background:#f7f7f7; text-align:center}
+td:first-child, th:first-child{text-align:left}
+tr:nth-child(even){background:#fafafa}
+.asc::after{content:" ▲"} .desc::after{content:" ▼"}
+legend, .legend h2{margin-top:24px}
+nav h2{margin-top:24px}
+footer{margin-top:24px; font-size:0.9em; color:#555}
+/* red emphasis for F_raw cells (applied by JS) */
+td.emph{color:#b00020; font-weight:600}
+</style>
+<script>
+function sortTable(n){
+ var t=document.getElementById('tbl'); var rows=Array.from(t.tBodies[0].rows);
+ var ths=t.tHead.rows[0].cells; var dir=t.getAttribute('data-dir')||'asc';
+ var last=parseInt(t.getAttribute('data-col')||'-1');
+ dir=(last===n && dir==='asc')?'desc':'asc';
+ for(var i=0;i<ths.length;i++){ths[i].classList.remove('asc');ths[i].classList.remove('desc');}
+ ths[n].classList.add(dir);
+ rows.sort(function(a,b){
+   var A=a.cells[n].innerText.trim(); var B=b.cells[n].innerText.trim();
+   var x=parseFloat(A.replace(',','.')); var y=parseFloat(B.replace(',','.'));
+   var na=isNaN(x), nb=isNaN(y);
+   return (na||nb? (A>B?1:-1) : (x>y?1:(x<y?-1:0))) * (dir==='asc'?1:-1);
+ });
+ rows.forEach(r=>t.tBodies[0].appendChild(r));
+ t.setAttribute('data-col',n); t.setAttribute('data-dir',dir);
+}
+function highlightColumnByIndex(idx){
+  if(idx==null) return;
+  var t=document.getElementById('tbl'); var rows=t.tBodies[0].rows;
+  for(var i=0;i<rows.length;i++){ if(rows[i].cells[idx]) rows[i].cells[idx].classList.add('emph'); }
+}
+document.addEventListener('DOMContentLoaded', function(){
+  highlightColumnByIndex(null);
+});
+</script></head><body>
+<h1>Baselines — UCL 2024-25</h1>
+<table id="tbl"><thead><tr><th onclick="sortTable(0)">venue</th><th onclick="sortTable(1)">opponent_pot</th><th onclick="sortTable(2)">avg_points</th><th onclick="sortTable(3)">matches</th><th onclick="sortTable(4)">std</th><th onclick="sortTable(5)">se</th></tr></thead><tbody><tr><td>away</td><td>1</td><td>0.6111111111111112</td><td>36</td><td>1.1282800507922992</td><td>0.1880466751320498</td></tr><tr><td>away</td><td>2</td><td>0.9444444444444444</td><td>36</td><td>1.3297571087435365</td><td>0.2216261847905893</td></tr><tr><td>away</td><td>3</td><td>1.4166666666666667</td><td>36</td><td>1.4015297764534702</td><td>0.2335882960755783</td></tr><tr><td>away</td><td>4</td><td>1.6111111111111112</td><td>36</td><td>1.4397971638449192</td><td>0.2399661939741532</td></tr><tr><td>home</td><td>1</td><td>1.6111111111111112</td><td>36</td><td>1.4981470036162818</td><td>0.2496911672693803</td></tr><tr><td>home</td><td>2</td><td>1.2222222222222223</td><td>36</td><td>1.3333333333333333</td><td>0.2222222222222222</td></tr><tr><td>home</td><td>3</td><td>1.8888888888888888</td><td>36</td><td>1.3685817012571346</td><td>0.2280969502095224</td></tr><tr><td>home</td><td>4</td><td>2.1944444444444446</td><td>36</td><td>1.260826133803761</td><td>0.2101376889672934</td></tr></tbody></table>
+<section class='legend'><h2>Legend</h2><ul><li>[avg_points] — average points per game in the baseline season for this (venue, opponent_pot) bucket.</li><li>[matches] — number of team-games contributing to this average.</li><li>[std] — standard deviation of points across those matches.</li><li>[se] — standard error of the mean (std / sqrt(matches)).</li></ul></section>
+<nav><h2>Pages</h2><ul>
+<li><a href='projections_ucl_2025-26.html'>Projections UCL 2025-26</a> <strong>(main adjusted table)</strong></li>
+<li style='font-weight:bold;'><a href='baselines_ucl_2024-25.html'>Baselines UCL 2024-25</a></li>
+<li><a href='buckets_ucl_2025-26.html'>Buckets UCL 2025-26</a></li>
+<li><a href='teamgames_ucl_2024-25.html'>Teamgames UCL 2024-25</a></li>
+<li><a href='teamgames_ucl_2025-26.html'>Teamgames UCL 2025-26</a></li>
+</ul></nav>
+<footer>Generated 2025-11-06 15:49 UTC</footer>
+</body></html>

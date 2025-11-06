@@ -1,0 +1,289 @@
+season,team,venue,opponent,opponent_pot,points,matchday
+2024-25,Young Boys,home,Aston Villa,4,0,1
+2024-25,Aston Villa,away,Young Boys,3,3,1
+2024-25,Juventus,home,PSV Eindhoven,3,3,1
+2024-25,PSV Eindhoven,away,Juventus,2,0,1
+2024-25,Milan,home,Liverpool,1,0,1
+2024-25,Liverpool,away,Milan,2,3,1
+2024-25,Bayern Munich,home,Dinamo Zagreb,3,3,1
+2024-25,Dinamo Zagreb,away,Bayern Munich,1,0,1
+2024-25,Real Madrid,home,VfB Stuttgart,4,3,1
+2024-25,VfB Stuttgart,away,Real Madrid,1,0,1
+2024-25,Sporting CP,home,LOSC Lille,3,3,1
+2024-25,LOSC Lille,away,Sporting CP,3,0,1
+2024-25,Sparta Prague,home,Red Bull Salzburg,3,3,1
+2024-25,Red Bull Salzburg,away,Sparta Prague,4,0,1
+2024-25,Bologna,home,Shakhtar Donetsk,2,1,1
+2024-25,Shakhtar Donetsk,away,Bologna,4,1,1
+2024-25,Celtic,home,Slovan Bratislava,4,3,1
+2024-25,Slovan Bratislava,away,Celtic,3,0,1
+2024-25,Club Brugge,home,Borussia Dortmund,1,0,1
+2024-25,Borussia Dortmund,away,Club Brugge,2,3,1
+2024-25,Manchester City,home,Inter Milan,1,1,1
+2024-25,Inter Milan,away,Manchester City,1,1,1
+2024-25,Paris Saint-Germain,home,Girona,4,3,1
+2024-25,Girona,away,Paris Saint-Germain,1,0,1
+2024-25,Feyenoord,home,Bayer Leverkusen,2,0,1
+2024-25,Bayer Leverkusen,away,Feyenoord,3,3,1
+2024-25,Red Star Belgrade,home,Benfica,2,0,1
+2024-25,Benfica,away,Red Star Belgrade,3,3,1
+2024-25,Monaco,home,Barcelona,1,3,1
+2024-25,Barcelona,away,Monaco,4,0,1
+2024-25,Atalanta,home,Arsenal,2,1,1
+2024-25,Arsenal,away,Atalanta,2,1,1
+2024-25,Atlético Madrid,home,RB Leipzig,1,3,1
+2024-25,RB Leipzig,away,Atlético Madrid,2,0,1
+2024-25,Brest,home,Sturm Graz,4,3,1
+2024-25,Sturm Graz,away,Brest,4,0,1
+2024-25,Red Bull Salzburg,home,Brest,4,0,2
+2024-25,Brest,away,Red Bull Salzburg,3,3,2
+2024-25,VfB Stuttgart,home,Sparta Prague,4,1,2
+2024-25,Sparta Prague,away,VfB Stuttgart,4,1,2
+2024-25,Arsenal,home,Paris Saint-Germain,1,3,2
+2024-25,Paris Saint-Germain,away,Arsenal,2,0,2
+2024-25,Bayer Leverkusen,home,Milan,2,3,2
+2024-25,Milan,away,Bayer Leverkusen,2,0,2
+2024-25,Borussia Dortmund,home,Celtic,3,3,2
+2024-25,Celtic,away,Borussia Dortmund,1,0,2
+2024-25,Barcelona,home,Young Boys,3,3,2
+2024-25,Young Boys,away,Barcelona,1,0,2
+2024-25,Inter Milan,home,Red Star Belgrade,3,3,2
+2024-25,Red Star Belgrade,away,Inter Milan,1,0,2
+2024-25,PSV Eindhoven,home,Sporting CP,3,1,2
+2024-25,Sporting CP,away,PSV Eindhoven,3,1,2
+2024-25,Slovan Bratislava,home,Manchester City,1,0,2
+2024-25,Manchester City,away,Slovan Bratislava,4,3,2
+2024-25,Shakhtar Donetsk,home,Atalanta,2,0,2
+2024-25,Atalanta,away,Shakhtar Donetsk,2,3,2
+2024-25,Girona,home,Feyenoord,3,0,2
+2024-25,Feyenoord,away,Girona,4,3,2
+2024-25,Aston Villa,home,Bayern Munich,1,3,2
+2024-25,Bayern Munich,away,Aston Villa,4,0,2
+2024-25,Dinamo Zagreb,home,Monaco,4,1,2
+2024-25,Monaco,away,Dinamo Zagreb,3,1,2
+2024-25,Liverpool,home,Bologna,4,3,2
+2024-25,Bologna,away,Liverpool,1,0,2
+2024-25,LOSC Lille,home,Real Madrid,1,3,2
+2024-25,Real Madrid,away,LOSC Lille,3,0,2
+2024-25,RB Leipzig,home,Juventus,2,0,2
+2024-25,Juventus,away,RB Leipzig,1,3,2
+2024-25,Sturm Graz,home,Club Brugge,2,0,2
+2024-25,Club Brugge,away,Sturm Graz,4,3,2
+2024-25,Benfica,home,Atlético Madrid,2,3,2
+2024-25,Atlético Madrid,away,Benfica,2,0,2
+2024-25,Milan,home,Club Brugge,2,3,3
+2024-25,Club Brugge,away,Milan,2,0,3
+2024-25,Monaco,home,Red Star Belgrade,3,3,3
+2024-25,Red Star Belgrade,away,Monaco,4,0,3
+2024-25,Arsenal,home,Shakhtar Donetsk,2,3,3
+2024-25,Shakhtar Donetsk,away,Arsenal,2,0,3
+2024-25,Aston Villa,home,Bologna,4,3,3
+2024-25,Bologna,away,Aston Villa,4,0,3
+2024-25,Girona,home,Slovan Bratislava,4,3,3
+2024-25,Slovan Bratislava,away,Girona,4,0,3
+2024-25,Juventus,home,VfB Stuttgart,4,0,3
+2024-25,VfB Stuttgart,away,Juventus,2,3,3
+2024-25,Paris Saint-Germain,home,PSV Eindhoven,3,1,3
+2024-25,PSV Eindhoven,away,Paris Saint-Germain,1,1,3
+2024-25,Real Madrid,home,Borussia Dortmund,1,3,3
+2024-25,Borussia Dortmund,away,Real Madrid,1,0,3
+2024-25,Sturm Graz,home,Sporting CP,3,0,3
+2024-25,Sporting CP,away,Sturm Graz,4,3,3
+2024-25,Atalanta,home,Celtic,3,1,3
+2024-25,Celtic,away,Atalanta,2,1,3
+2024-25,Brest,home,Bayer Leverkusen,2,1,3
+2024-25,Bayer Leverkusen,away,Brest,4,1,3
+2024-25,Atlético Madrid,home,LOSC Lille,3,0,3
+2024-25,LOSC Lille,away,Atlético Madrid,2,3,3
+2024-25,Young Boys,home,Inter Milan,1,0,3
+2024-25,Inter Milan,away,Young Boys,3,3,3
+2024-25,Barcelona,home,Bayern Munich,1,3,3
+2024-25,Bayern Munich,away,Barcelona,1,0,3
+2024-25,Red Bull Salzburg,home,Dinamo Zagreb,3,0,3
+2024-25,Dinamo Zagreb,away,Red Bull Salzburg,3,3,3
+2024-25,Manchester City,home,Sparta Prague,4,3,3
+2024-25,Sparta Prague,away,Manchester City,1,0,3
+2024-25,RB Leipzig,home,Liverpool,1,0,3
+2024-25,Liverpool,away,RB Leipzig,1,3,3
+2024-25,Benfica,home,Feyenoord,3,0,3
+2024-25,Feyenoord,away,Benfica,2,3,3
+2024-25,PSV Eindhoven,home,Girona,4,3,4
+2024-25,Girona,away,PSV Eindhoven,3,0,4
+2024-25,Slovan Bratislava,home,Dinamo Zagreb,3,0,4
+2024-25,Dinamo Zagreb,away,Slovan Bratislava,4,3,4
+2024-25,Bologna,home,Monaco,4,0,4
+2024-25,Monaco,away,Bologna,4,3,4
+2024-25,Borussia Dortmund,home,Sturm Graz,4,3,4
+2024-25,Sturm Graz,away,Borussia Dortmund,1,0,4
+2024-25,Celtic,home,RB Leipzig,1,3,4
+2024-25,RB Leipzig,away,Celtic,3,0,4
+2024-25,Liverpool,home,Bayer Leverkusen,2,3,4
+2024-25,Bayer Leverkusen,away,Liverpool,1,0,4
+2024-25,LOSC Lille,home,Juventus,2,1,4
+2024-25,Juventus,away,LOSC Lille,3,1,4
+2024-25,Real Madrid,home,Milan,2,0,4
+2024-25,Milan,away,Real Madrid,1,3,4
+2024-25,Sporting CP,home,Manchester City,1,3,4
+2024-25,Manchester City,away,Sporting CP,3,0,4
+2024-25,Club Brugge,home,Aston Villa,4,3,4
+2024-25,Aston Villa,away,Club Brugge,2,0,4
+2024-25,Shakhtar Donetsk,home,Young Boys,3,3,4
+2024-25,Young Boys,away,Shakhtar Donetsk,2,0,4
+2024-25,Sparta Prague,home,Brest,4,0,4
+2024-25,Brest,away,Sparta Prague,4,3,4
+2024-25,Inter Milan,home,Arsenal,2,3,4
+2024-25,Arsenal,away,Inter Milan,1,0,4
+2024-25,Feyenoord,home,Red Bull Salzburg,3,0,4
+2024-25,Red Bull Salzburg,away,Feyenoord,3,3,4
+2024-25,Red Star Belgrade,home,Barcelona,1,0,4
+2024-25,Barcelona,away,Red Star Belgrade,3,3,4
+2024-25,Paris Saint-Germain,home,Atlético Madrid,2,0,4
+2024-25,Atlético Madrid,away,Paris Saint-Germain,1,3,4
+2024-25,VfB Stuttgart,home,Atalanta,2,0,4
+2024-25,Atalanta,away,VfB Stuttgart,4,3,4
+2024-25,Bayern Munich,home,Benfica,2,3,4
+2024-25,Benfica,away,Bayern Munich,1,0,4
+2024-25,Sparta Prague,home,Atlético Madrid,2,0,5
+2024-25,Atlético Madrid,away,Sparta Prague,4,3,5
+2024-25,Slovan Bratislava,home,Milan,2,0,5
+2024-25,Milan,away,Slovan Bratislava,4,3,5
+2024-25,Bayer Leverkusen,home,Red Bull Salzburg,3,3,5
+2024-25,Red Bull Salzburg,away,Bayer Leverkusen,2,0,5
+2024-25,Young Boys,home,Atalanta,2,0,5
+2024-25,Atalanta,away,Young Boys,3,3,5
+2024-25,Barcelona,home,Brest,4,3,5
+2024-25,Brest,away,Barcelona,1,0,5
+2024-25,Bayern Munich,home,Paris Saint-Germain,1,3,5
+2024-25,Paris Saint-Germain,away,Bayern Munich,1,0,5
+2024-25,Inter Milan,home,RB Leipzig,1,3,5
+2024-25,RB Leipzig,away,Inter Milan,1,0,5
+2024-25,Manchester City,home,Feyenoord,3,1,5
+2024-25,Feyenoord,away,Manchester City,1,1,5
+2024-25,Sporting CP,home,Arsenal,2,0,5
+2024-25,Arsenal,away,Sporting CP,3,3,5
+2024-25,Red Star Belgrade,home,VfB Stuttgart,4,3,5
+2024-25,VfB Stuttgart,away,Red Star Belgrade,3,0,5
+2024-25,Sturm Graz,home,Girona,4,3,5
+2024-25,Girona,away,Sturm Graz,4,0,5
+2024-25,Monaco,home,Benfica,2,0,5
+2024-25,Benfica,away,Monaco,4,3,5
+2024-25,Aston Villa,home,Juventus,2,1,5
+2024-25,Juventus,away,Aston Villa,4,1,5
+2024-25,Bologna,home,LOSC Lille,3,0,5
+2024-25,LOSC Lille,away,Bologna,4,3,5
+2024-25,Celtic,home,Club Brugge,2,1,5
+2024-25,Club Brugge,away,Celtic,3,1,5
+2024-25,Dinamo Zagreb,home,Borussia Dortmund,1,0,5
+2024-25,Borussia Dortmund,away,Dinamo Zagreb,3,3,5
+2024-25,Liverpool,home,Real Madrid,1,3,5
+2024-25,Real Madrid,away,Liverpool,1,0,5
+2024-25,PSV Eindhoven,home,Shakhtar Donetsk,2,3,5
+2024-25,Shakhtar Donetsk,away,PSV Eindhoven,3,0,5
+2024-25,Girona,home,Liverpool,1,0,6
+2024-25,Liverpool,away,Girona,4,3,6
+2024-25,Dinamo Zagreb,home,Celtic,3,1,6
+2024-25,Celtic,away,Dinamo Zagreb,3,1,6
+2024-25,Atalanta,home,Real Madrid,1,0,6
+2024-25,Real Madrid,away,Atalanta,2,3,6
+2024-25,Bayer Leverkusen,home,Inter Milan,1,3,6
+2024-25,Inter Milan,away,Bayer Leverkusen,2,0,6
+2024-25,Club Brugge,home,Sporting CP,3,3,6
+2024-25,Sporting CP,away,Club Brugge,2,0,6
+2024-25,Red Bull Salzburg,home,Paris Saint-Germain,1,0,6
+2024-25,Paris Saint-Germain,away,Red Bull Salzburg,3,3,6
+2024-25,Shakhtar Donetsk,home,Bayern Munich,1,0,6
+2024-25,Bayern Munich,away,Shakhtar Donetsk,2,3,6
+2024-25,RB Leipzig,home,Aston Villa,4,0,6
+2024-25,Aston Villa,away,RB Leipzig,1,3,6
+2024-25,Brest,home,PSV Eindhoven,3,3,6
+2024-25,PSV Eindhoven,away,Brest,4,0,6
+2024-25,Atlético Madrid,home,Slovan Bratislava,4,3,6
+2024-25,Slovan Bratislava,away,Atlético Madrid,2,0,6
+2024-25,LOSC Lille,home,Sturm Graz,4,3,6
+2024-25,Sturm Graz,away,LOSC Lille,3,0,6
+2024-25,Milan,home,Red Star Belgrade,3,3,6
+2024-25,Red Star Belgrade,away,Milan,2,0,6
+2024-25,Arsenal,home,Monaco,4,3,6
+2024-25,Monaco,away,Arsenal,2,0,6
+2024-25,Borussia Dortmund,home,Barcelona,1,0,6
+2024-25,Barcelona,away,Borussia Dortmund,1,3,6
+2024-25,Feyenoord,home,Sparta Prague,4,3,6
+2024-25,Sparta Prague,away,Feyenoord,3,0,6
+2024-25,Juventus,home,Manchester City,1,3,6
+2024-25,Manchester City,away,Juventus,2,0,6
+2024-25,Benfica,home,Bologna,4,1,6
+2024-25,Bologna,away,Benfica,2,1,6
+2024-25,VfB Stuttgart,home,Young Boys,3,3,6
+2024-25,Young Boys,away,VfB Stuttgart,4,0,6
+2024-25,Monaco,home,Aston Villa,4,3,7
+2024-25,Aston Villa,away,Monaco,4,0,7
+2024-25,Atalanta,home,Sturm Graz,4,3,7
+2024-25,Sturm Graz,away,Atalanta,2,0,7
+2024-25,Atlético Madrid,home,Bayer Leverkusen,2,3,7
+2024-25,Bayer Leverkusen,away,Atlético Madrid,2,0,7
+2024-25,Bologna,home,Borussia Dortmund,1,3,7
+2024-25,Borussia Dortmund,away,Bologna,4,0,7
+2024-25,Club Brugge,home,Juventus,2,1,7
+2024-25,Juventus,away,Club Brugge,2,1,7
+2024-25,Red Star Belgrade,home,PSV Eindhoven,3,0,7
+2024-25,PSV Eindhoven,away,Red Star Belgrade,3,3,7
+2024-25,Liverpool,home,LOSC Lille,3,3,7
+2024-25,LOSC Lille,away,Liverpool,1,0,7
+2024-25,Slovan Bratislava,home,VfB Stuttgart,4,0,7
+2024-25,VfB Stuttgart,away,Slovan Bratislava,4,3,7
+2024-25,Benfica,home,Barcelona,1,0,7
+2024-25,Barcelona,away,Benfica,2,3,7
+2024-25,Shakhtar Donetsk,home,Brest,4,3,7
+2024-25,Brest,away,Shakhtar Donetsk,2,0,7
+2024-25,RB Leipzig,home,Sporting CP,3,3,7
+2024-25,Sporting CP,away,RB Leipzig,1,0,7
+2024-25,Milan,home,Girona,4,3,7
+2024-25,Girona,away,Milan,2,0,7
+2024-25,Sparta Prague,home,Inter Milan,1,0,7
+2024-25,Inter Milan,away,Sparta Prague,4,3,7
+2024-25,Arsenal,home,Dinamo Zagreb,3,3,7
+2024-25,Dinamo Zagreb,away,Arsenal,2,0,7
+2024-25,Celtic,home,Young Boys,3,3,7
+2024-25,Young Boys,away,Celtic,3,0,7
+2024-25,Feyenoord,home,Bayern Munich,1,3,7
+2024-25,Bayern Munich,away,Feyenoord,3,0,7
+2024-25,Paris Saint-Germain,home,Manchester City,1,3,7
+2024-25,Manchester City,away,Paris Saint-Germain,1,0,7
+2024-25,Real Madrid,home,Red Bull Salzburg,3,3,7
+2024-25,Red Bull Salzburg,away,Real Madrid,1,0,7
+2024-25,Aston Villa,home,Celtic,3,3,8
+2024-25,Celtic,away,Aston Villa,4,0,8
+2024-25,Bayer Leverkusen,home,Sparta Prague,4,3,8
+2024-25,Sparta Prague,away,Bayer Leverkusen,2,0,8
+2024-25,Borussia Dortmund,home,Shakhtar Donetsk,2,3,8
+2024-25,Shakhtar Donetsk,away,Borussia Dortmund,1,0,8
+2024-25,Young Boys,home,Red Star Belgrade,3,0,8
+2024-25,Red Star Belgrade,away,Young Boys,3,3,8
+2024-25,Barcelona,home,Atalanta,2,1,8
+2024-25,Atalanta,away,Barcelona,1,1,8
+2024-25,Bayern Munich,home,Slovan Bratislava,4,3,8
+2024-25,Slovan Bratislava,away,Bayern Munich,1,0,8
+2024-25,Inter Milan,home,Monaco,4,3,8
+2024-25,Monaco,away,Inter Milan,1,0,8
+2024-25,Red Bull Salzburg,home,Atlético Madrid,2,0,8
+2024-25,Atlético Madrid,away,Red Bull Salzburg,3,3,8
+2024-25,Girona,home,Arsenal,2,0,8
+2024-25,Arsenal,away,Girona,4,3,8
+2024-25,Dinamo Zagreb,home,Milan,2,3,8
+2024-25,Milan,away,Dinamo Zagreb,3,0,8
+2024-25,Juventus,home,Benfica,2,0,8
+2024-25,Benfica,away,Juventus,2,3,8
+2024-25,LOSC Lille,home,Feyenoord,3,3,8
+2024-25,Feyenoord,away,LOSC Lille,3,0,8
+2024-25,Manchester City,home,Club Brugge,2,3,8
+2024-25,Club Brugge,away,Manchester City,1,0,8
+2024-25,PSV Eindhoven,home,Liverpool,1,3,8
+2024-25,Liverpool,away,PSV Eindhoven,3,0,8
+2024-25,Sturm Graz,home,RB Leipzig,1,3,8
+2024-25,RB Leipzig,away,Sturm Graz,4,0,8
+2024-25,Sporting CP,home,Bologna,4,1,8
+2024-25,Bologna,away,Sporting CP,3,1,8
+2024-25,Brest,home,Real Madrid,1,0,8
+2024-25,Real Madrid,away,Brest,4,3,8
+2024-25,VfB Stuttgart,home,Paris Saint-Germain,1,0,8
+2024-25,Paris Saint-Germain,away,VfB Stuttgart,4,3,8
