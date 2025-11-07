@@ -21,6 +21,10 @@ wheels/
 
 # ignore the HTML fetch cache (recommended)
 data/raw/_cache/
+data/_archive/matchday3/raw/_cache/
+data/_archive/matchday4/raw/_cache/
+data/_archive/matchday5/raw/_cache/
+data/_archive/matchday6/raw/_cache/
 
 # OS/editor cruft (optional)
 .DS_Store
