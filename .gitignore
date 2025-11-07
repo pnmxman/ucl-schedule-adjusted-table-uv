@@ -18,3 +18,15 @@ wheels/
 
 # office lock files
 .~lock.*
+
+# ignore the HTML fetch cache (recommended)
+data/raw/_cache/
+
+# OS/editor cruft (optional)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
