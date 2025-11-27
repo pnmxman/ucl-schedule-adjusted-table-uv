@@ -12,6 +12,9 @@ wheels/
 # development snapshots
 .dev
 
+# double html cleanup (at the moment htmls are exported to data but published in docs)
+.cleanup
+
 # environment variables
 .env
 
