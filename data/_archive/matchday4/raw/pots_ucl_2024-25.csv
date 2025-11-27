@@ -1,0 +1,40 @@
+competition,season,team,pot,uefa_coefficient,source_url
+ucl,2024-25,Teams ranked 1 to 8 advanced to the round of 16 as a seeded team,,,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Teams ranked 9 to 16 advanced to the knockout phase play-offs as a seeded team,,,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Teams ranked 17 to 24 advanced to the knockout phase play-offs as an unseeded team,,,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Real Madrid,1.0,136.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Manchester City,1.0,148.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Bayern Munich,1.0,144.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Paris Saint-Germain,1.0,116.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Liverpool,1.0,114.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Inter Milan,1.0,101.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Borussia Dortmund,1.0,97.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,RB Leipzig,1.0,97.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Barcelona,1.0,91.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Bayer Leverkusen,2.0,90.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Atlético Madrid,2.0,89.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Atalanta,2.0,81.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Juventus,2.0,80.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Benfica,2.0,79.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Arsenal,2.0,72.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Club Brugge,2.0,64.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Shakhtar Donetsk,2.0,63.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Milan,2.0,59.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Feyenoord,3.0,57.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Sporting CP,3.0,54.5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,PSV Eindhoven,3.0,54.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Dinamo Zagreb,3.0,50.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Red Bull Salzburg,3.0,50.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Lille,3.0,47.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Red Star Belgrade,3.0,40.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Young Boys,3.0,34.5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Celtic,3.0,32.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Slovan Bratislava,4.0,30.5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Monaco,4.0,24.0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Sparta Prague,4.0,22.5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Aston Villa,4.0,20.86,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Bologna,4.0,18.056,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Girona,4.0,17.897,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,VfB Stuttgart,4.0,17.324,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Sturm Graz,4.0,14.5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,Brest,4.0,13.366,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase

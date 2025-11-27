@@ -1,0 +1,73 @@
+competition,season,matchday,home_team,away_team,home_goals,away_goals,source_url
+ucl,2025-26,1,Athletic Bilbao,Arsenal,0,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,PSV Eindhoven,Union Saint-Gilloise,1,3,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Juventus,Borussia Dortmund,4,4,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Real Madrid,Marseille,2,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Benfica,Qarabağ,2,3,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Tottenham Hotspur,Villarreal,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Olympiacos,Pafos,0,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Slavia Prague,Bodø/Glimt,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Ajax,Inter Milan,0,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Bayern Munich,Chelsea,3,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Liverpool,Atlético Madrid,3,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Paris Saint-Germain,Atalanta,4,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Club Brugge,Monaco,4,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Copenhagen,Bayer Leverkusen,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Eintracht Frankfurt,Galatasaray,5,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Manchester City,Napoli,2,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Newcastle United,Barcelona,1,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,1,Sporting CP,Kairat,4,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Atalanta,Club Brugge,2,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Kairat,Real Madrid,0,5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Atlético Madrid,Eintracht Frankfurt,5,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Chelsea,Benfica,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Inter Milan,Slavia Prague,3,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Bodø/Glimt,Tottenham Hotspur,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Galatasaray,Liverpool,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Marseille,Ajax,4,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Pafos,Bayern Munich,1,5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Qarabağ,Copenhagen,2,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Union Saint-Gilloise,Newcastle United,0,4,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Arsenal,Olympiacos,2,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Monaco,Manchester City,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Bayer Leverkusen,PSV Eindhoven,1,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Borussia Dortmund,Athletic Bilbao,4,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Barcelona,Paris Saint-Germain,1,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Napoli,Sporting CP,2,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,2,Villarreal,Juventus,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Barcelona,Olympiacos,6,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Kairat,Pafos,0,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Arsenal,Atlético Madrid,4,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Bayer Leverkusen,Paris Saint-Germain,2,7,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Copenhagen,Borussia Dortmund,2,4,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Newcastle United,Benfica,3,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,PSV Eindhoven,Napoli,6,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Union Saint-Gilloise,Inter Milan,0,4,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Villarreal,Manchester City,0,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Athletic Bilbao,Qarabağ,3,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Galatasaray,Bodø/Glimt,3,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Monaco,Tottenham Hotspur,0,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Atalanta,Slavia Prague,0,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Chelsea,Ajax,5,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Eintracht Frankfurt,Liverpool,1,5,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Bayern Munich,Club Brugge,4,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Real Madrid,Juventus,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,3,Sporting CP,Marseille,2,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Slavia Prague,Arsenal,0,3,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Napoli,Eintracht Frankfurt,0,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Atlético Madrid,Union Saint-Gilloise,3,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Bodø/Glimt,Monaco,0,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Juventus,Sporting CP,1,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Liverpool,Real Madrid,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Olympiacos,PSV Eindhoven,1,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Paris Saint-Germain,Bayern Munich,1,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Tottenham Hotspur,Copenhagen,4,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Pafos,Villarreal,1,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Qarabağ,Chelsea,2,2,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Ajax,Galatasaray,0,3,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Club Brugge,Barcelona,3,3,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Inter Milan,Kairat,2,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Manchester City,Borussia Dortmund,4,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Newcastle United,Athletic Bilbao,2,0,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Marseille,Atalanta,0,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase
+ucl,2025-26,4,Benfica,Bayer Leverkusen,0,1,https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase

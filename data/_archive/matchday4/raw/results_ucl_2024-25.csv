@@ -1,0 +1,145 @@
+competition,season,matchday,home_team,away_team,home_goals,away_goals,source_url
+ucl,2024-25,1,Young Boys,Aston Villa,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Juventus,PSV Eindhoven,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Milan,Liverpool,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Bayern Munich,Dinamo Zagreb,9,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Real Madrid,VfB Stuttgart,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Sporting CP,Lille,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Sparta Prague,Red Bull Salzburg,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Bologna,Shakhtar Donetsk,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Celtic,Slovan Bratislava,5,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Club Brugge,Borussia Dortmund,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Manchester City,Inter Milan,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Paris Saint-Germain,Girona,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Feyenoord,Bayer Leverkusen,0,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Red Star Belgrade,Benfica,1,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Monaco,Barcelona,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Atalanta,Arsenal,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Atlético Madrid,RB Leipzig,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,1,Brest,Sturm Graz,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Red Bull Salzburg,Brest,0,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,VfB Stuttgart,Sparta Prague,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Arsenal,Paris Saint-Germain,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Bayer Leverkusen,Milan,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Borussia Dortmund,Celtic,7,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Barcelona,Young Boys,5,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Inter Milan,Red Star Belgrade,4,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,PSV Eindhoven,Sporting CP,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Slovan Bratislava,Manchester City,0,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Shakhtar Donetsk,Atalanta,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Girona,Feyenoord,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Aston Villa,Bayern Munich,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Dinamo Zagreb,Monaco,2,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Liverpool,Bologna,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Lille,Real Madrid,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,RB Leipzig,Juventus,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Sturm Graz,Club Brugge,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,2,Benfica,Atlético Madrid,4,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Milan,Club Brugge,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Monaco,Red Star Belgrade,5,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Arsenal,Shakhtar Donetsk,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Aston Villa,Bologna,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Girona,Slovan Bratislava,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Juventus,VfB Stuttgart,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Paris Saint-Germain,PSV Eindhoven,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Real Madrid,Borussia Dortmund,5,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Sturm Graz,Sporting CP,0,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Atalanta,Celtic,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Brest,Bayer Leverkusen,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Atlético Madrid,Lille,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Young Boys,Inter Milan,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Barcelona,Bayern Munich,4,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Red Bull Salzburg,Dinamo Zagreb,0,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Manchester City,Sparta Prague,5,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,RB Leipzig,Liverpool,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,3,Benfica,Feyenoord,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,PSV Eindhoven,Girona,4,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Slovan Bratislava,Dinamo Zagreb,1,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Bologna,Monaco,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Borussia Dortmund,Sturm Graz,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Celtic,RB Leipzig,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Liverpool,Bayer Leverkusen,4,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Lille,Juventus,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Real Madrid,Milan,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Sporting CP,Manchester City,4,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Club Brugge,Aston Villa,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Shakhtar Donetsk,Young Boys,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Sparta Prague,Brest,1,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Inter Milan,Arsenal,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Feyenoord,Red Bull Salzburg,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Red Star Belgrade,Barcelona,2,5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Paris Saint-Germain,Atlético Madrid,1,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,VfB Stuttgart,Atalanta,0,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,4,Bayern Munich,Benfica,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Sparta Prague,Atlético Madrid,0,6,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Slovan Bratislava,Milan,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Bayer Leverkusen,Red Bull Salzburg,5,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Young Boys,Atalanta,1,6,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Barcelona,Brest,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Bayern Munich,Paris Saint-Germain,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Inter Milan,RB Leipzig,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Manchester City,Feyenoord,3,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Sporting CP,Arsenal,1,5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Red Star Belgrade,VfB Stuttgart,5,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Sturm Graz,Girona,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Monaco,Benfica,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Aston Villa,Juventus,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Bologna,Lille,1,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Celtic,Club Brugge,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Dinamo Zagreb,Borussia Dortmund,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,Liverpool,Real Madrid,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,5,PSV Eindhoven,Shakhtar Donetsk,3,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Girona,Liverpool,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Dinamo Zagreb,Celtic,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Atalanta,Real Madrid,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Bayer Leverkusen,Inter Milan,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Club Brugge,Sporting CP,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Red Bull Salzburg,Paris Saint-Germain,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Shakhtar Donetsk,Bayern Munich,1,5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,RB Leipzig,Aston Villa,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Brest,PSV Eindhoven,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Atlético Madrid,Slovan Bratislava,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Lille,Sturm Graz,3,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Milan,Red Star Belgrade,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Arsenal,Monaco,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Borussia Dortmund,Barcelona,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Feyenoord,Sparta Prague,4,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Juventus,Manchester City,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,Benfica,Bologna,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,6,VfB Stuttgart,Young Boys,5,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Monaco,Aston Villa,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Atalanta,Sturm Graz,5,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Atlético Madrid,Bayer Leverkusen,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Bologna,Borussia Dortmund,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Club Brugge,Juventus,0,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Red Star Belgrade,PSV Eindhoven,2,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Liverpool,Lille,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Slovan Bratislava,VfB Stuttgart,1,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Benfica,Barcelona,4,5,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Shakhtar Donetsk,Brest,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,RB Leipzig,Sporting CP,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Milan,Girona,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Sparta Prague,Inter Milan,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Arsenal,Dinamo Zagreb,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Celtic,Young Boys,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Feyenoord,Bayern Munich,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Paris Saint-Germain,Manchester City,4,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,7,Real Madrid,Red Bull Salzburg,5,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Aston Villa,Celtic,4,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Bayer Leverkusen,Sparta Prague,2,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Borussia Dortmund,Shakhtar Donetsk,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Young Boys,Red Star Belgrade,0,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Barcelona,Atalanta,2,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Bayern Munich,Slovan Bratislava,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Inter Milan,Monaco,3,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Red Bull Salzburg,Atlético Madrid,1,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Girona,Arsenal,1,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Dinamo Zagreb,Milan,2,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Juventus,Benfica,0,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Lille,Feyenoord,6,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Manchester City,Club Brugge,3,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,PSV Eindhoven,Liverpool,3,2,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Sturm Graz,RB Leipzig,1,0,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Sporting CP,Bologna,1,1,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,Brest,Real Madrid,0,3,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
+ucl,2024-25,8,VfB Stuttgart,Paris Saint-Germain,1,4,https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League_league_phase
