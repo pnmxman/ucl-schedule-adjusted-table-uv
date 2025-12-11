@@ -27,7 +27,6 @@ Outputs (to data/out/):
 
 import os
 import sys
-import math
 import numpy as np
 import pandas as pd
 
@@ -44,7 +43,10 @@ OUT_DIR = os.path.join("data", "out")
 # ===============================
 # Utilities (inline; no external imports)
 # ===============================
+# NAME_MAP for normalization might be incomplete. mechanism to identify missing aliases only identifies which team in results is not reperesented in other data. So it does not hand out the missing alias name. This should be modified for next season.
+# ===============================
 NAME_MAP = {
+    "AFC Ajax": "Ajax",
     "Bayern München": "Bayern Munich",
     "Athletic Club": "Athletic Bilbao",
     "Crvena Zvezda": "Red Star Belgrade",
@@ -223,6 +225,33 @@ def clean_pots_df(df: pd.DataFrame, results_df: pd.DataFrame) -> pd.DataFrame:
     return out.reset_index(drop=True)
 
 
+def ensure_names_align(
+    pots_df: pd.DataFrame, results_df: pd.DataFrame, season_label: str
+):
+    """
+    Fail fast when a team name in results cannot be matched to any team in pots
+    after normalization. This catches newly-appeared aliases that are not yet
+    added to NAME_MAP and would otherwise lead to missing opponent_pot values.
+    """
+    pots_norm = set(pots_df["team"].astype(str).map(normalize_name))
+    res_names = pd.concat([results_df["home_team"], results_df["away_team"]]).astype(
+        str
+    )
+    res_norm_series = res_names.map(normalize_name)
+    res_norm = set(res_norm_series)
+
+    missing_in_pots = sorted(res_norm - pots_norm)
+    if missing_in_pots:
+        raw_examples = (
+            res_names[res_norm_series.isin(missing_in_pots)].drop_duplicates().tolist()
+        )
+        fail(
+            f"{season_label}: found team names in results that are not present in pots "
+            f"after normalization: {missing_in_pots}. Likely a new alias; please add it "
+            f"to NAME_MAP. Raw examples: {raw_examples[:10]}"
+        )
+
+
 # ===============================
 # Core transforms
 # ===============================
@@ -371,6 +400,10 @@ def main():
     # === NEW: Clean pots to drop non-team rows and align to teams in results ===
     pots_prev = clean_pots_df(pots_prev, res_prev)
     pots_curr = clean_pots_df(pots_curr, res_curr)
+
+    # Ensure no unseen aliases slipped into results (must match pots after normalization)
+    ensure_names_align(pots_prev, res_prev, BASELINE_SEASON)
+    ensure_names_align(pots_curr, res_curr, CURRENT_SEASON)
 
     # Sanity checks (counts)
     validate_results_counts(res_prev, res_curr)
